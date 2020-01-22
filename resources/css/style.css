@@ -107,3 +107,41 @@ nav{
     display:inline-block;
     margin-bottom:10px;
 }
+
+section{
+    padding: 40px 0;
+    margin-bottom:50px;
+}
+
+.freecopy{
+    padding-left:40px;
+}
+
+.email{
+    height:55px;
+    width:300px;
+}
+
+.btn-sub{
+    background-color:#3b3b3b;
+   
+    height:55px;
+}
+
+
+
+.inspiration{
+    background-image:url(img/home_panel3_banner.jpg);
+    background-size:cover;
+    background-position: center;
+    height:80vh;
+}
+
+.inspiration-text-box{
+    position:relative;
+    width:650px;
+    top:50%;
+    left:50%;
+    transform: translate(-90%,-50%);
+
+}
