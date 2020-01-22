@@ -143,5 +143,16 @@ section{
     top:50%;
     left:50%;
     transform: translate(-90%,-50%);
+}
 
+.featured{
+    margin:20px 15%;
+}
+
+.featured-on{
+    text-align:center;
+    text-transform: uppercase;
+}
+.btn-media{
+    
 }
