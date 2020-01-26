@@ -154,6 +154,17 @@ section{
     text-transform: uppercase;
 }
 
+.text-box{
+   text-align:center;
+   margin-bottom:0;
+
+}
+.text-box p{
+    color:black;
+    margin-bottom:0;
+
+}
+
 .achievements{
     background-image:url(img/home_panel2_banner.jpg);
     background-size:cover;
@@ -174,6 +185,7 @@ section{
     background-size:cover;
     background-position: center;
     height:80vh;
+    margin-bottom:0;
 }
 
 .social-text-box{
